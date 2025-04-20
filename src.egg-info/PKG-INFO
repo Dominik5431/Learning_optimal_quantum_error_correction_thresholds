@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: src
+Version: 1.0
+Summary: Necessary framework to provide necessary tools for computing the threshold using the coherent information
+Author: <Dominik Seip>
+Author-email: dominik.seip@rwth-aachen.de
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# Learning optimal quantum error correction thresholds
+
+Code for masterthesis
